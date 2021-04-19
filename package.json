@@ -1,0 +1,10 @@
+{
+  "name": "AppRestaurante",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "whiterose",
+  "license": "MIT",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
+}
